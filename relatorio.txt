@@ -1,0 +1,5 @@
+Relatorio de Seguranca
+Gerado em: 09/04/2026 17:03
+------------------------------
+192.168.0.99 - 4 tentativas
+172.16.0.3 - 4 tentativas
